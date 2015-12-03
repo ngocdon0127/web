@@ -1,0 +1,336 @@
+@charset "utf-8";
+/* CSS Document */
+#body{
+	font-family: tahoma, Helvetica, sans-serif;
+	font-size:14px;
+	color:#FFF;
+}
+.footer
+{
+	font-family: tahoma, Helvetica, sans-serif;
+	color:#CECECE;
+	font-size:14px; 
+}
+.footer a
+{
+	color:#CECECE;
+	text-decoration:none;
+}
+.footer a:hover
+{
+	color:#FF7F00;
+}
+.footer_visited a
+{
+	color:#FF7F00;
+}
+.brick
+{
+	font-family: Arial, Tahoma, sans-serif;
+	color:#F90;
+}
+#leather_name
+{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#CCC;
+	font-size:12px;
+	margin-top:5px;
+	margin-bottom:10px;
+}
+
+#leather_tittle
+{
+	font-family: Arial, Helvetica, sans-serif;
+	color:#FF7F00;
+	font-weight:bold;
+}
+	
+#pattern_menu
+{
+color:#FFF; padding-left:15px; padding-top:7px; padding-bottom:7px;
+}
+
+#pattern_menu a
+{
+	font: normal 12px Arial;
+	text-decoration:none;
+	color:#FFF;
+	display: block;
+}
+
+#pattern_menu a:hover{ 
+color:#FF7F00;
+
+}
+
+#pattern_menu_visited
+{
+color:#FFF; padding-left:15px; padding-top:7px; padding-bottom:7px	;
+}
+
+#pattern_menu_visited a
+{
+	font: bold 12px Arial;
+	text-decoration:none;
+	color:#FF7F00;
+	display: block;
+	
+}
+
+#pattern_menu_tittle
+{
+color:#FF7F00; font-size:18px;
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+
+}
+#pattern_tittle
+{
+	color:#FFF;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#CCC;
+	font-size: 11px;
+}
+#pattern_image
+{
+	background: white; padding: 2px 2px 2px 2px; border: 1px solid #C4C4C4; display: block; 
+}
+
+#product_list_image
+{
+	background: white; padding: 2px 2px 2px 2px; display: block;
+}
+
+#product_bestseller_td
+{
+	padding:1px 1px 1px 1px;
+}
+#product_list_td
+{
+	padding:1px 1px 1px 1px;
+}
+#product_detail_td
+{
+	padding:1px 1px 1px 1px;
+}
+.gold
+{
+	font-family: tahoma, Helvetica, sans-serif;
+	color:#FC9;
+	font-size:14px; 
+}
+.gold a{
+	text-decoration:none;
+}
+.gold a:hover
+{
+	font-family: tahoma, Helvetica, sans-serif;
+	color:FF7F00;
+	font-size:14px; 
+}
+.order
+{
+	color:#FFF;
+}
+.order_header
+{
+	color:#FFF;
+	font:bold;
+}
+.main_text
+{
+	font-family: tahoma, Helvetica, sans-serif;
+	color:#CECECE;
+	font-size:14px; 
+}
+.main_text a
+{
+	color:#CECECE;
+	text-decoration:none;
+}
+.main_text a:hover
+{
+	color:#FF7F00;
+}
+.header
+{
+	font-family: tahoma, Helvetica, sans-serif;
+	color:#FFF;
+	font-size:14px;
+	font-weight:bold;
+}
+.header a
+{
+	color:#CECECE;
+	text-decoration:none;
+}
+.header a:hover
+{
+	color:#FF7F00;
+}
+
+.search_product_header
+{
+	color:#FFF;
+	font: bold Arial, Helvetica, sans-serif;
+	font-size:16px;
+}
+.search_product_name
+{
+	color:#FFF;
+	font: bold Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+
+
+
+.table_price
+{
+	border-color: #FFF;
+    border-style: solid;
+    border-width: 0 0 1px 1px;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.td_price
+{
+	border-color: #FFF;
+    border-style: solid;
+    margin: 0;
+    padding: 4px;
+    border-width: 1px 1px 0 0;
+	color:#FFF;
+	font-family: Helvetica, tahoma, sans-serif;
+	font-size: 17px;
+}
+
+.text_button
+{
+    display: inline-block;
+    border: 1px solid #e6e6e6;
+    padding: .3em .5em .3em .5em;
+    margin: .25em .25em;
+    text-align: center;
+    cursor: pointer;
+	font-family: Arial, Tahoma, sans-serif;
+	color:#F90;
+	font-weight: bold;
+	font-size:14px;
+	
+}
+.text_button a
+{
+	text-decoration:none;
+}
+
+#pagnav_bottom
+{
+    font-size: 11px;
+	font-family: Arial, Verdana, sans-serif;   
+    text-align: center;
+	
+}
+
+#pagnav_bottom li
+{	
+    border: 1px solid #e6e6e6;
+    padding: .3em .5em .3em .5em;
+    margin: .25em .25em;
+    text-align: center;    
+	display: inline;
+	color:#FFF;
+	
+}
+
+#pagnav_bottom li.selected
+{
+    background-color: #d2eaf6;
+    border: 0px solid #b7d8ee;
+}
+
+#pagnav_bottom a
+{
+    color: #FFF;  
+    text-decoration: none;
+}
+
+#pagnav_bottom li.selected a
+{
+    color: #444;
+    font-weight: bold;
+}
+
+
+.breadcrumb{
+
+	font-family: tahoma, Arial;
+
+	font-size: 12px;
+
+	font-weight: bold;
+
+	color: #0002B5;
+
+}
+
+.breadcrumb_nolink{
+
+	font-family: tahoma, Arial;
+
+	font-size: 12px;
+
+	font-weight: bold;
+
+	color: White;	
+
+}
+
+
+
+a.breadcrumb_link:link {
+
+TEXT-DECORATION: none;
+
+	font-family: Verdana, Arial;
+
+	font-size: 12px;
+
+	color: #FF0000;
+
+	font-weight: bold;
+
+}
+
+a.breadcrumb_link:visited {
+
+	TEXT-DECORATION: none;
+
+	font-family: Verdana, Arial;
+
+	font-size: 12px;
+
+	color: #FF0000;
+
+	font-weight: bold;
+
+}
+
+
+
+a.breadcrumb_link:hover {
+
+	TEXT-DECORATION: none;
+
+	color: #6FB8FF;
+
+	font-family: Verdana, Arial;
+
+	font-size: 12px;
+
+	font-style: normal;
+
+	font-weight: bold;
+
+}
